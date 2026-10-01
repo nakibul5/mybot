@@ -1,5 +1,7 @@
-pyTelegramBotAPI
 requests
+firebase-admin
+google-cloud-firestore
+urllib3
+beautifulsoup4
 pyotp
-python-telegram-bot
-httpx[http2]
+2captcha-python
