@@ -25,7 +25,7 @@ BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
 OWNER_ID = 6256427413
-BOT_USERNAME = "@Grab_Instant_Otp_bot"
+BOT_USERNAME = "@MiahHostOtp_bot"
 DB_FILE = "bot_data.json"
 db_lock = threading.Lock()
 
@@ -137,7 +137,7 @@ init_firebase()
 
 bot_settings = {
     "admins": 6256427413,
-    "panels": "https://t.me/Grab_Instant_Otp_bot", 
+    "panels": "https://t.me/MiahHostOtp_bot", 
     "fw_groups": [], 
     "otp_link": "https://t.me/Grab_Instant_Otp",
     "withdraw_on": True,
